@@ -49,7 +49,7 @@ def unknown_command(command):
 
 
 
-exit_command = ['good bye', 'close', 'exit']
+exit_command = ['good_bye', 'close', 'exit']
 
 
 commands = {
